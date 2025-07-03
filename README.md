@@ -2,19 +2,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaunfarhan16&label=Profile%20views&color=0e75b6&style=flat" alt="shaunfarhan16" /> </p>
 
 🚀 AI Enthusiast | Junior Data Scientist | Builder of GenAI & Agentic Systems.
-🔍 Exploring the intersection of LLMs, RAG, and Agentic AI to redefine how machines think, learn, and assist.
+🔍 Advancing the future of intelligence through GenAI, RAG, Agentic AI, and LLM-powered solutions, grounded in real-world utility and ethical design.
 
-👨‍💻 Currently pursuing an MSc in Data Science & Artificial Intelligence at Keele University, I thrive on building real-world, impactful AI solutions-from predictive models and time-series forecasting to context-aware LLM-driven agents for autonomous tasks.
+👨‍🎓 MSc Data Science & Artificial Intelligence @ Keele University (UK),
+I thrive on building real-world, impactful AI solutions-from predictive models and time-series forecasting to context-aware LLM-driven agents for autonomous tasks.
+
+💡 Currently building a context-aware, fact-grounded enterprise knowledge system using Retrieval-Augmented Generation (RAG) and Model-Controller-Prompt (MCP) architecture. Also leading the development of an Agentic AI system to automate university assessment marking via LLMs and API-driven task orchestration.
 
 🧠 What I’m Working On:
 
-🔁 Designing Retrieval-Augmented Generation (RAG) systems for enterprise knowledge retrieval
+Generative AI | Language Models (GPT, BERT) | Agentic Systems
 
-🧑‍🏫 Building Agentic AI for automated assessment marking at scale
+RAG Pipelines | Custom Prompt Engineering | API Integration
 
-🛠️ Developing complete pipelines with EDA, preprocessing, feature engineering, and model evaluation
+Predictive Analytics | Feature Engineering | Time Series Forecasting
 
-🌐 Experimenting with Custom Prompt Management (CPM) to fine-tune LLM behavior
+Data Privacy | Explainability (SHAP) | Human-AI Alignment
 
 📊 My Toolkit Includes:
 Python | Pandas | NumPy | Scikit-learn | XGBoost | LightGBM | SHAP | Seaborn | Matplotlib |

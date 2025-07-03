@@ -22,7 +22,7 @@ Data Privacy | Explainability (SHAP) | Human-AI Alignment
 📊 My Toolkit Includes:
 Python | Pandas | NumPy | Scikit-learn | XGBoost | LightGBM | SHAP | Seaborn | Matplotlib |
 PyTorch | OpenCV | Prophet | ARIMA | GridSearchCV | SQL | Power BI | AWS | Big Data (Spark, Hadoop) |
-Web Scraping (BeautifulSoup) | NLP (BERT, GPT, NLTK, NER) | Time-Series | Computer Vision
+Web Scraping (BeautifulSoup) | NLP (BERT, GPT, NLTK, NER) | Time-Series | Computer Vision | Hugging Face | Langchain
 
 🔗 Passionate about building intelligent systems that are fair, interpretable, and aligned with human values.
 📬 Let’s collaborate on impactful AI!

@@ -17,8 +17,8 @@
 🌐 Experimenting with Custom Prompt Management (CPM) to fine-tune LLM behavior
 
 📊 My Toolkit Includes:
-Python | Pandas | NumPy | Scikit-learn | XGBoost | LightGBM | SHAP | Seaborn | Matplotlib
-PyTorch | OpenCV | Prophet | ARIMA | GridSearchCV | SQL | Power BI | AWS | Big Data (Spark, Hadoop)
+Python | Pandas | NumPy | Scikit-learn | XGBoost | LightGBM | SHAP | Seaborn | Matplotlib |
+PyTorch | OpenCV | Prophet | ARIMA | GridSearchCV | SQL | Power BI | AWS | Big Data (Spark, Hadoop) |
 Web Scraping (BeautifulSoup) | NLP (BERT, GPT, NLTK, NER) | Time-Series | Computer Vision
 
 🔗 Passionate about building intelligent systems that are fair, interpretable, and aligned with human values.

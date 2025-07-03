@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Farhan Hashmi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaunfarhan16&label=Profile%20views&color=0e75b6&style=flat" alt="shaunfarhan16" /> </p>
 
-🚀 AI Enthusiast | Junior Data Scientist | Builder of GenAI & Agentic Systems
-
+🚀 AI Enthusiast | Junior Data Scientist | Builder of GenAI & Agentic Systems.
 🔍 Exploring the intersection of LLMs, RAG, and Agentic AI to redefine how machines think, learn, and assist.
 
-👨‍💻 Currently pursuing an MSc in Data Science & Artificial Intelligence at Keele University, I thrive on building real-world, impactful AI solutions—from predictive models and time-series forecasting to context-aware LLM-driven agents for autonomous tasks.
+👨‍💻 Currently pursuing an MSc in Data Science & Artificial Intelligence at Keele University, I thrive on building real-world, impactful AI solutions-from predictive models and time-series forecasting to context-aware LLM-driven agents for autonomous tasks.
 
 🧠 What I’m Working On:
 

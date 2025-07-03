@@ -1,6 +1,29 @@
 <h1 align="center">Hi there 👋, I'm Farhan Hashmi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaunfarhan16&label=Profile%20views&color=0e75b6&style=flat" alt="shaunfarhan16" /> </p>
 
+🚀 AI Enthusiast | Junior Data Scientist | Builder of GenAI & Agentic Systems
+🔍 Exploring the intersection of LLMs, RAG, and Agentic AI to redefine how machines think, learn, and assist.
+
+👨‍💻 Currently pursuing an MSc in Data Science & Artificial Intelligence at Keele University, I thrive on building real-world, impactful AI solutions—from predictive models and time-series forecasting to context-aware LLM-driven agents for autonomous tasks.
+
+🧠 What I’m Working On:
+
+🔁 Designing Retrieval-Augmented Generation (RAG) systems for enterprise knowledge retrieval
+
+🧑‍🏫 Building Agentic AI for automated assessment marking at scale
+
+🛠️ Developing complete pipelines with EDA, preprocessing, feature engineering, and model evaluation
+
+🌐 Experimenting with Custom Prompt Management (CPM) to fine-tune LLM behavior
+
+📊 My Toolkit Includes:
+Python | Pandas | NumPy | Scikit-learn | XGBoost | LightGBM | SHAP | Seaborn | Matplotlib
+PyTorch | OpenCV | Prophet | ARIMA | GridSearchCV | SQL | Power BI | AWS | Big Data (Spark, Hadoop)
+Web Scraping (BeautifulSoup) | NLP (BERT, GPT, NLTK, NER) | Time-Series | Computer Vision
+
+🔗 Passionate about building intelligent systems that are fair, interpretable, and aligned with human values.
+📬 Let’s collaborate on impactful AI!
+
 - 📫 How to reach me **shaunfarhan16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
